@@ -1,20 +1,15 @@
-[![¿?](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/TLi794)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYSTEMS at the Systems Hub, Hong Kong University of Science and Technology (Guangzhou), China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>tli794@connect.hkust-gz.edu.cn</code>  
+<code>li-tianfu@foxmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Hong Kong University of Science and Technology (Guangzhou)**, M.Phil. in Robotics and Automation Systems (2024 – Present)  
+• GPA: 4.0/4.3  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Sichuan University**, B.Eng. in Computer Science and Technology (2020 – 2024)  
+• GPA: 3.66/4.0
 
 #### Research Interests  
-XX, XX, XX, XX.
+Embodied AI & Autonomous Driving, Vision-and-language Navigation and Action (VLN, VLA).
