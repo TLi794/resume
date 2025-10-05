@@ -1,4 +1,4 @@
-- Postgraduate Studentship Award from Hong Kong University of Science and Technology (Guangzhou)
+- Postgraduate Studentship (PGS) Award from Hong Kong University of Science and Technology (Guangzhou)
   
 - Outstanding Bachelor’s Dissertation (Second Prize) of Sichuan University
 
@@ -10,4 +10,4 @@
 
 - Individual Scholarship (First Prize) from Sichuan University
 
-- Meritorious Winner (Top 10%) in Mathematical Contest in Modeling by COMAP
+- Meritorious Winner in Mathematical Contest in Modeling by COMAP
