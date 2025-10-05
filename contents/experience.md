@@ -1,21 +1,13 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | balabala**  
+#### **Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN Systems**  
+**October 2024 – Present | RBM Group Project**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Vision-Language Navigation (VLN) for autonomous operation in dynamic indoor environments. The system combines real-time mapping, object recognition, and language-guided task execution, achieving millimeter level accuracy in dynamic settings.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+##### Key Contributions:  
+- Built a hierarchical multi-layer map via integrating modern Semantic Mapping (Concept-Graphs, etc.) with conventional Multiple View Geometry (Back-projection reconstruction, etc.);
+- Devised object-oriented/language-guided navigation on this map: search target (by LLM or VLM) via semantic layer while generating collision-free paths (by A-star, DWA, etc.) on geometric layer;
+- Deployed this system on a wheeled robot, conducted testing and performance analysis via a web-based interface.  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | balabala**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
