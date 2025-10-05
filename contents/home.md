@@ -2,10 +2,8 @@ Hi! I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS 
 
 #### Education  
 **Hong Kong University of Science and Technology (Guangzhou)**, M.Phil. in Robotics and Automation Systems (2024 – Present)  
-• GPA: 4.0/4.3  
+• GPA: 4.00/4.3  
 
 **Sichuan University**, B.Eng. in Computer Science and Technology (2020 – 2024)  
 • GPA: 3.66/4.0
 
-#### Research Interests  
-Embodied AI & Autonomous Driving, Vision-and-language Navigation and Action (VLN, VLA).
