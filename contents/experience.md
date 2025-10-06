@@ -8,6 +8,10 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 - Devised object-oriented/language-guided navigation on this map: search target (by LLM or VLM) via semantic layer while generating collision-free paths (by A-star, DWA, etc.) on geometric layer;
 - Deployed this system on a wheeled robot, conducted testing and performance analysis via a web-based interface.  
 
+<p align="center">
+  <img src="figs/servicerobot.png" alt="pipeline" style="width:100%;">
+</p>
+
 ---
 
 
