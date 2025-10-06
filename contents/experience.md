@@ -24,3 +24,9 @@ We built a robust touchless robotic control system for human-robot interacton vi
 - Integrated Swin-Transformer architecture to enhance spatial feature extraction and signal disentanglement;
 - Deployed the model on ROS, with Qt-based visualization interface for real-time testing and control;
 - Simulated camera and control nodes to evaluate system performance, improving gesture control accuracy from 58.3% to 89.1%.
+
+<p align="center">
+  <img src="https://tli794.github.io/resume/contents/figs/roboticgesturecontrol.png" alt="pipeline" style="width:100%">
+</p>
+
+---
