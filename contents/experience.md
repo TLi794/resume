@@ -9,7 +9,7 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 - Deployed this system on a wheeled robot, conducted testing and performance analysis via a web-based interface.  
 
 <p align="center">
-  <img src="figs/servicerobot.png" alt="pipeline" style="width:100%;">
+  <img src="https://github.com/TLi794/resume/blob/main/contents/figs/servicerobot.png" alt="pipeline" style="width:100%;">
 </p>
 
 ---
