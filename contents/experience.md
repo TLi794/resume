@@ -14,4 +14,5 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 
 ---
 
-
+### **Vision-based Robotic Gesture Recognition and Control under Optical Camera Communication Interference**  
+**October 2023 – June 2024 | Bachelor’s Dissertation**  
