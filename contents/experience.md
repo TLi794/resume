@@ -1,7 +1,7 @@
 ### **Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN Systems**  
 **October 2024 – Present | RBM Group Project**  
 
-We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Vision-and-language Navigation (VLN) for autonomous operation in dynamic indoor environments. The system combines real-time mapping, object recognition, and language-guided task execution, achieving millimeter level accuracy in dynamic settings.
+We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Vision-and-language Navigation (VLN) for autonomous operation in dynamic indoor environments. The system combines real-time mapping and positioning, object recognition, and language-guided task execution, achieving millimeter level accuracy in dynamic settings.
 
 #### Key Contributions:  
 - Built a hierarchical multi-layer map via integrating modern Semantic Mapping (Concept-Graphs, etc.) with conventional Multiple View Geometry (Back-projection reconstruction, etc.);
