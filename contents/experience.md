@@ -16,3 +16,11 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 
 ### **Vision-based Robotic Gesture Recognition and Control under Optical Camera Communication Interference**  
 **October 2023 – June 2024 | Bachelor’s Dissertation**  
+
+We built a robust touchless robotic control system for human-robot interacton via vision-based gesture recognition under the interference of optical camera communication. 
+
+#### Key Contributions: 
+- Designed a style-transfer-based denoising pipeline using CycleGAN to isolate gesture data from noisy image matrices;
+- Integrated Swin-Transformer architecture to enhance spatial feature extraction and signal disentanglement;
+- Deployed the model on ROS, with Qt-based visualization interface for real-time testing and control;
+- Simulated camera and control nodes to evaluate system performance, improving gesture control accuracy from 58.3% to 89.1%.
