@@ -30,3 +30,6 @@ We built a robust touchless robotic control system for human-robot interacton vi
 </p>
 
 ---
+
+> RMB: RedBrid M.Phil.
+> RPG: Research Postgraduate
