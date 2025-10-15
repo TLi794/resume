@@ -9,7 +9,7 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 - Deployed this system on a wheeled robot, conducted testing and performance analysis via a web-based interface.  
 
 <p align="center">
-  <img src="https://tli794.github.io/resume/contents/figs/servicerobot.png" alt="pipeline" style="width:100%">
+  <img src="https://tli794.github.io/resume/contents/figs/servicerobot.png" alt="pipeline" style="width:80%">
 </p>
 
 ---
@@ -26,7 +26,7 @@ We built a robust touchless robotic control system for human-robot interacton vi
 - Simulated camera and control nodes to evaluate system performance, improving gesture control accuracy from 58.3% to 89.1%.
 
 <p align="center">
-  <img src="https://tli794.github.io/resume/contents/figs/roboticgesturecontrol.png" alt="pipeline" style="width:100%">
+  <img src="https://tli794.github.io/resume/contents/figs/roboticgesturecontrol.png" alt="pipeline" style="width:80%">
 </p>
 
 ---
