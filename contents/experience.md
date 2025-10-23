@@ -30,7 +30,21 @@ We built a robust touchless robotic control system for human-robot interacton vi
 </p>
 
 ---
+
+### **A Privacy-preserving Biometric Identification Technology for Home Use based on WiFi-sensing and Deep Learning**  
+**October 2021 – October 2022 | CSIETPP**  
+
+We b. 
+
+#### Key Contributions: 
+- 
+
+<p align="center">
+  <img src="https://tli794.github.io/resume/contents/figs/wifisensing.png" alt="pipeline" style="width:80%">
+</p>
+
 ---
 
 - *RMB: RedBrid M.Phil.* <br>
-- *RPG: Research Postgraduate*
+- *RPG: Research Postgraduate* <br>
+- *CSIETPP: College Students' Innovative Entrepreneurial Training Plan Program*
