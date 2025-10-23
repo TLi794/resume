@@ -41,7 +41,7 @@ In smart-home environments, non-intrusive yet reliable identity recognition is e
 - Designed a lightweight deep-learning classifier for CSI data, lifting identity-recognition accuracy to 94%.
 
 <p align="center">
-  <img src="https://tli794.github.io/resume/contents/figs/wifisensing.png" alt="pipeline" style="width:80%">
+  <img src="https://tli794.github.io/resume/contents/figs/wifisensing.jpg" alt="pipeline" style="width:80%">
 </p>
 
 ---
