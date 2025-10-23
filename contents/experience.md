@@ -31,13 +31,14 @@ We built a robust touchless robotic control system for human-robot interacton vi
 
 ---
 
-### **A Privacy-preserving Biometric Identification Technology for Home Use based on WiFi-sensing and Deep Learning**  
+### **A Privacy-preserving Biometric Identification Technology for Home Use based on WiFi Sensing**  
 **October 2021 – October 2022 | CSIETPP**  
 
-We b. 
+In smart-home environments, non-intrusive yet reliable identity recognition is essential for security. By replacing privacy-sensitive cameras with ambient WiFi signals, we can authenticate occupants without exposing their visual data. Furthermore, the ubiquity and plug-and-play nature of WiFi infrastructure make the solution exceptionally easy to deploy.
 
 #### Key Contributions: 
-- 
+- Leveraged fine-grained WiFi Channel State Information (CSI) to capture identity-related cues such as gait dynamics, instead of relying on the coarse-grained Received Signal Strength Indicator (RSSI) as in previous research.
+- Designed a lightweight deep-learning classifier for CSI data, lifting identity-recognition accuracy to 94%.
 
 <p align="center">
   <img src="https://tli794.github.io/resume/contents/figs/wifisensing.png" alt="pipeline" style="width:80%">
