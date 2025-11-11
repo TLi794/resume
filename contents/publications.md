@@ -5,4 +5,4 @@
   <br>
   <li><strong>Embodied Service Robot with Dynamic SLAM and Vision-Language Navigation</strong><br>Pengxu Hou, Yunhao Tian, <strong>Tianfu Li</strong>, Haoxuan Xu, Wenbo Chen, Song Fei, Ruixin Li, Haoang Li, Lujia Wang<br><em>IROS 2025 Late-Breaking Results Poster Session</em><br><a href="https://tli794.github.io/resume/contents/figs/not-available.png">Paper</a> / <a href="https://tli794.github.io/resume/contents/figs/not-available.png">Poster</a></li>
 </ul> 
---
+*: Co-first authorship.
