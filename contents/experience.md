@@ -14,6 +14,21 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 
 ---
 
+### **RedBird Coastal Hydrological Monitoring Unmanned System**  
+**February 2025 – August 2025 | Project**  
+
+We integrate unmanned ground, air and underwater nodes into one smart platform: vehicles launch drones, drones relay buoy data, acoustic modems cut through waves, and self-powered sensors log temperature, salinity, etc. in real time, giving scientists, fishers and coastal managers live, multidimensional nearshore hydrography. A project presentation can be found there.
+
+#### Key Contributions: 
+- Participated in the development of the “sea-land-air” collaborative unmanned monitoring system;
+- Contributed to the VLN module for unmanned ground vehicles (UGV) serving as drone-delivery rovers.
+
+<p align="center">
+  <img src="https://tli794.github.io/resume/contents/figs/coastal.png" alt="pipeline" style="width:80%">
+</p>
+
+---
+
 ### **Vision-based Robotic Gesture Recognition and Control under Optical Camera Communication Interference**  
 **October 2023 – June 2024 | Bachelor’s Dissertation**  
 
