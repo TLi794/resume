@@ -4,9 +4,3 @@ Hi! I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS 
 • **M.Phil. in Robotics and Automation Systems** (GPA: 4.00/4.3), <a href="https://www.hkust-gz.edu.cn/" style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Hong Kong University of Science and Technology (Guangzhou)</a>, China, 2024 - Present
 
 • **B.Eng. in Computer Science and Technology** (GPA: 3.66/4.0), <a href="https://en.scu.edu.cn/" style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Sichuan University</a>, China, 2020 - 2024
-
-<style>
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
