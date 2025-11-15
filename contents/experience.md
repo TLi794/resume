@@ -24,7 +24,7 @@ We integrate unmanned ground, air and underwater nodes into one smart platform: 
 - Contributed to the VLN module for unmanned ground vehicles (UGV) serving as drone-delivery rovers.
 
 <p align="center">
-  <img src="https://tli794.github.io/resume/contents/figs/coastal.png" alt="pipeline" style="width:80%">
+  <img src="https://tli794.github.io/resume/contents/figs/coastal2.png" alt="pipeline" style="width:80%">
 </p>
 
 ---
