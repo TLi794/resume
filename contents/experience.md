@@ -46,6 +46,6 @@ In smart-home environments, non-intrusive yet reliable identity recognition is e
 
 ---
 
-- *RMB: RedBrid M.Phil.* <br>
+- *RBM: RedBrid M.Phil.* <br>
 - *RPG: Research Postgraduate* <br>
 - *CSIETPP: College Students' Innovative Entrepreneurial Training Plan Program*
