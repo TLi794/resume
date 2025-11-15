@@ -17,7 +17,7 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 ### **RedBird Coastal Hydrological Monitoring Unmanned System**  
 **February 2025 – August 2025 | Project**  
 
-We integrate unmanned ground, air and underwater nodes into one smart platform: vehicles launch drones, drones relay buoy data, acoustic modems cut through waves, and self-powered sensors log temperature, salinity, etc. in real time, giving scientists, fishers and coastal managers live, multidimensional nearshore hydrography. A project presentation can be found there.
+We integrate unmanned ground, air and underwater nodes into one smart platform: vehicles launch drones, drones relay buoy data, acoustic modems cut through waves, and self-powered sensors log temperature, salinity, etc. in real time, giving scientists, fishers and coastal managers live, multidimensional nearshore hydrography. A project display can be found at <a href="https://mp.weixin.qq.com/s/ZgVO-W9tWL1KAQG7vN-JXg" style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">there</a>.
 
 #### Key Contributions: 
 - Participated in the development of the “sea-land-air” collaborative unmanned monitoring system;
