@@ -1,4 +1,4 @@
-<img width="1080" height="517" alt="coastal" src="https://github.com/user-attachments/assets/04c90fbb-825e-4e77-9660-002beac308fd" />### **Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN Systems**  
+### **Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN Systems**  
 **October 2024 – Present | RBM Group Project**  
 
 We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Vision-and-language Navigation (VLN) for autonomous operation in dynamic indoor environments. The system combines real-time mapping and positioning, object recognition, and language-guided task execution, achieving millimeter level accuracy in dynamic settings.
@@ -14,7 +14,7 @@ We propose an embodied AI-based service robot in tegrating Dynamic SLAM and Visi
 
 ---
 
-### **RedBird Coastal Hydrological Monitoring Unmanned System**  
+### **Coastal Hydrological Monitoring Unmanned System**  
 **February 2025 – August 2025 | On-Campus Project**  
 
 We integrate unmanned ground, air and underwater nodes into one smart platform: vehicles launch drones, drones relay buoy data, acoustic modems cut through waves, and self-powered sensors log temperature, salinity, etc. in real time, giving scientists, fishers and coastal managers live, multidimensional nearshore hydrography. A project presentation/tweet can be found at <a href="https://mp.weixin.qq.com/s/ZgVO-W9tWL1KAQG7vN-JXg" style="text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">there</a>.
